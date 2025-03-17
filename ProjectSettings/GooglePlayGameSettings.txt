@@ -1,0 +1,9 @@
+lastUpgrade=01008
+proj.pluginVersion=0.10.08
+proj.AppId=450571349988
+and.BundleId=com.FinnduinoProductions.SquareSquared
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0a%3cresources%3e%0a++%3c%21--app_id--%3e%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e450571349988%3c%2fstring%3e%0a++%3c%21--package_name--%3e%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.FinnduinoProductions.SquareSquared%3c%2fstring%3e%0a++%3c%21--achievement+1000+Points--%3e%0a++%3cstring+name%3d%22achievement_1000_points%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQBg%3c%2fstring%3e%0a++%3c%21--achievement+10+000+Points--%3e%0a++%3cstring+name%3d%22achievement_10_000_points%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQBw%3c%2fstring%3e%0a++%3c%21--achievement+100+000+Points--%3e%0a++%3cstring+name%3d%22achievement_100_000_points%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQCA%3c%2fstring%3e%0a++%3c%21--achievement+The+Legendary+1+Million--%3e%0a++%3cstring+name%3d%22achievement_the_legendary_1_million%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQCQ%3c%2fstring%3e%0a++%3c%21--leaderboard+Highscore+V2--%3e%0a++%3cstring+name%3d%22leaderboard_highscore_v2%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQBQ%3c%2fstring%3e%0a++%3c%21--leaderboard+Most+Coins+Collected+in+One+Run--%3e%0a++%3cstring+name%3d%22leaderboard_most_coins_collected_in_one_run%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQAg%3c%2fstring%3e%0a++%3c%21--leaderboard+Highscore--%3e%0a++%3cstring+name%3d%22leaderboard_highscore%22+translatable%3d%22false%22%3eCgkI5N-UwY4NEAIQAQ%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
